@@ -3,10 +3,10 @@ export default function ExperiencePage() {
     <main className="mx-auto max-w-3xl px-6 py-24">
       <h1 className="text-3xl font-semibold tracking-tight">Experience</h1>
 
-      {/* AWS SDE II */}
+      {/* AWS SDE II/I */}
       <section className="mt-10">
         <h2 className="text-xl font-medium">
-          Software Development Engineer II — AWS Aurora
+          Software Development Engineer II/I — AWS Aurora
         </h2>
         <p className="mt-2 text-sm text-zinc-600">
           Amazon Web Services · Jun 2022 – Jul 2025
@@ -79,15 +79,15 @@ export default function ExperiencePage() {
 
         <ul className="mt-4 space-y-2 text-zinc-700">
           <li>
-            • Teaching Assistant II for graduate-level ML Quantitative Methods in Social Sciences course.
+            • Teaching Assistant II for graduate-level ML for Social Sciences course.
           </li>
           <li>
-            • Led discussion sections, clarified theoretical concepts, and assisted
+            • Led grading, discussion sections, clarified theoretical concepts, and assisted
             students with assignments and projects.
           </li>
           <li>
-            • Reinforced understanding of Python, algorithms, probability, statistics, linear algebra, multivariable calculus and applied ML
-            through hands-on problem solving.
+            • Reinforced understanding of Python, algorithms, probability, statistics,
+            linear algebra, multivariable calculus and applied ML through hands-on problem solving.
           </li>
         </ul>
       </section>
