@@ -7,25 +7,24 @@ export default function ProjectsPage() {
       <section className="mt-10">
         <h2 className="text-xl font-medium">Py_FS</h2>
         <p className="mt-2 text-sm text-zinc-600">
-          Open-source Feature Selection Library (Python)
+          Open-source Feature Selection Library
         </p>
         <p className="mt-4 text-zinc-700 leading-7">
-          Py_FS is an open-source Python library implementing optimized feature
-          selection algorithms for machine learning research. The library is
-          actively used by researchers across academia.
+          An open-source Python library implementing optimized feature
+          selection algorithms for machine learning research.
         </p>
         <ul className="mt-4 space-y-2 text-zinc-700">
-          <li>• 66+ GitHub stars and 39+ forks</li>
-          <li>• Focus on performance, correctness, and usability</li>
-          <li>• Used in published ML research</li>
+          <li>• 66+ GitHub stars, 39+ forks</li>
+          <li>• Used in peer-reviewed research</li>
+          <li>• Focus on performance and correctness</li>
         </ul>
         <p className="mt-4 text-sm">
           <a
-            href="https://github.com/trinav0711"
+            href="https://github.com/Ritam-Guha/Py_FS"
             target="_blank"
             className="underline"
           >
-            GitHub
+            View on GitHub
           </a>
         </p>
       </section>
@@ -37,14 +36,40 @@ export default function ProjectsPage() {
           Full-stack Web Application
         </p>
         <p className="mt-4 text-zinc-700 leading-7">
-          CUFoodie is a full-stack web application designed to help students at
-          Columbia University discover curated restaurants near campus.
+          A full-stack web application helping Columbia students discover
+          curated restaurants near campus.
         </p>
         <ul className="mt-4 space-y-2 text-zinc-700">
-          <li>• Served 500+ students</li>
-          <li>• React frontend with Flask backend</li>
-          <li>• PostgreSQL database</li>
+          <li>• 500+ users</li>
+          <li>• React + Flask + PostgreSQL</li>
         </ul>
+        <p className="mt-4 text-sm">
+          <a
+            href="https://github.com/trinav0711/CUFoodie"
+            target="_blank"
+            className="underline"
+          >
+            View on GitHub
+          </a>
+        </p>
+      </section>
+
+      {/* More Projects */}
+      <section className="mt-12">
+        <h2 className="text-xl font-medium">More Projects</h2>
+        <p className="mt-4 text-zinc-700">
+          Additional academic, systems, and machine learning projects can be
+          found on my GitHub profile.
+        </p>
+        <p className="mt-4 text-sm">
+          <a
+            href="https://github.com/trinav0711"
+            target="_blank"
+            className="underline"
+          >
+            View all projects on GitHub →
+          </a>
+        </p>
       </section>
     </main>
   );

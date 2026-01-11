@@ -4,23 +4,13 @@ export default function ResumePage() {
       <h1 className="text-3xl font-semibold tracking-tight">Resume</h1>
 
       <p className="mt-4 text-zinc-700">
-        You can view or download my resume below.
+        An up-to-date version of my resume is embedded below.
       </p>
-
-      <div className="mt-8">
-        <a
-          href="/Trinav_Bhattacharyya_Resume.pdf"
-          target="_blank"
-          className="text-sm font-medium underline"
-        >
-          Download PDF
-        </a>
-      </div>
 
       <div className="mt-8 border rounded-lg overflow-hidden">
         <iframe
           src="/Trinav_Bhattacharyya_Resume.pdf"
-          className="w-full h-[800px]"
+          className="w-full h-[900px]"
         />
       </div>
     </main>

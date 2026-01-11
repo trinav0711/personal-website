@@ -68,6 +68,29 @@ export default function ExperiencePage() {
           </li>
         </ul>
       </section>
+      {/* Teaching Experience */}
+      <section className="mt-12">
+        <h2 className="text-xl font-medium">
+          Teaching Assistant II — Columbia University
+        </h2>
+        <p className="mt-2 text-sm text-zinc-600">
+          Jan 2026 – Present
+        </p>
+
+        <ul className="mt-4 space-y-2 text-zinc-700">
+          <li>
+            • Teaching Assistant II for graduate-level ML Quantitative Methods in Social Sciences course.
+          </li>
+          <li>
+            • Led discussion sections, clarified theoretical concepts, and assisted
+            students with assignments and projects.
+          </li>
+          <li>
+            • Reinforced understanding of Python, algorithms, probability, statistics, linear algebra, multivariable calculus and applied ML
+            through hands-on problem solving.
+          </li>
+        </ul>
+      </section>
     </main>
   );
 }
