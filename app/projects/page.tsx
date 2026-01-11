@@ -69,7 +69,7 @@ export default function ProjectsPage() {
 
       {/* Mayfly Optimization - Harmony Search */}
       <section className="mt-12">
-        <h2 className="text-xl font-medium">CUFoodie</h2>
+        <h2 className="text-xl font-medium">Mayfly Optimization - Harmony Search</h2>
         <p className="mt-2 text-sm text-zinc-600">
           ML Optimization Algorithm
         </p>
