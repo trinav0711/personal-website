@@ -6,19 +6,23 @@ export default function Home() {
       </h1>
 
       <p className="mt-2 text-lg text-zinc-600">
-        Software Engineer · Distributed Systems · Machine Learning
+        Software Engineer · Distributed Systems · Low-latency Systems · Web development · Machine Learning
       </p>
 
       <p className="mt-6 text-base leading-7 text-zinc-700">
-        I am a Software Engineer with 3+ years of experience at AWS Aurora,
+        I am a Software Engineer with 3+ years of experience at Amazon Web Services Aurora Storage,
         working on reliability-critical distributed database systems. I am
-        currently pursuing an MS in Computer Science (Machine Learning Track)
-        at Columbia University.
+        currently pursuing an Master of Science in Computer Science
+        at Columbia University with expected graduation in December 2026. With courseworks in AI, ML,
+        NLP, Discrete Math, Databases, Security & Privacy, and Algorithms, I am specializing in Machine
+        Learning and Artificial Intelligence. My current research at Columbia is at the intersection of
+        AI and Privacy, working on contemporary and upcoming LLMs to enhance user trust and adherence to
+        global privacy laws.
       </p>
 
       <p className="mt-4 text-base leading-7 text-zinc-700">
-        My interests include low-latency systems, databases, and applied
-        machine learning.
+        My interests include low-latency systems, databases, web and app development, security and privacy,
+        and applied machine learning.
       </p>
 
       <div className="mt-8 flex flex-wrap gap-6 text-sm font-medium">

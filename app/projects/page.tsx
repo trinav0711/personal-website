@@ -10,13 +10,16 @@ export default function ProjectsPage() {
           Open-source Feature Selection Library
         </p>
         <p className="mt-4 text-zinc-700 leading-7">
-          An open-source Python library implementing optimized feature
-          selection algorithms for machine learning research.
+          An open-source Python library for machine learning research. It contains implementations of
+          all contemporary and renowned nature-inspired feature selection and ML optimization techniques.
         </p>
         <ul className="mt-4 space-y-2 text-zinc-700">
-          <li>• 66+ GitHub stars, 39+ forks</li>
-          <li>• Used in peer-reviewed research</li>
-          <li>• Focus on performance and correctness</li>
+          <li>• 66+ GitHub stars, 39+ forks.</li>
+          <li>• Used in peer-reviewed research extensively due to the framework being easy to install.</li>
+          <li>• Focus on performance and correctness, while drastically cutting down developer
+            time in algorithm implementation.
+          </li>
+          <li> • Presented by me as a conference paper at Springer and accepted for publication.</li>
           <li>• Implemented using MATLAB and Python with libraries such as NumPy, SciPy and scikit-learn.</li>
         </ul>
         <p className="mt-4 text-sm text-zinc-600">
@@ -44,14 +47,17 @@ export default function ProjectsPage() {
       <section className="mt-12">
         <h2 className="text-xl font-medium">CUFoodie</h2>
         <p className="mt-2 text-sm text-zinc-600">
-          Full-stack Web Application
+          Full-stack Web Application for Columbia students
         </p>
         <p className="mt-4 text-zinc-700 leading-7">
-          A full-stack web application helping Columbia students discover
-          curated restaurants near campus.
+          A website developed for helping current students at Columbia to discover, review, explore
+          and choose restaurants near the University at Morningside Heights, New York.
         </p>
         <ul className="mt-4 space-y-2 text-zinc-700">
-          <li>• 500+ users</li>
+          <li>• 500+ users have used the site during the Fall of 2025.</li>
+          <li>• Community-driven website such that users could add reviews of restaurants they tried,
+            mentioning recommended food items and curated trails such as midnight snack places, etc.
+          </li>
         </ul>
         <p className="mt-4 text-sm text-zinc-600">
           Tech: React, Flask, Python, JavaScript, PostgreSQL, Google Cloud
@@ -76,7 +82,7 @@ export default function ProjectsPage() {
         <p className="mt-4 text-zinc-700 leading-7">
           A nature-inspired ML optimization algorithm called Mayfly Algorithm, coupled with
           greedy local search for purpose of feature selection. Used in various domains such as
-          cancer cell detection, signature verification, etc.
+          cancer cell detection, signature verification, etc. Cited and used even after 5+ years by academic researchers.
         </p>
         <ul className="mt-4 space-y-2 text-zinc-700">
           <li>• Work published in IEEE Access journal</li>
