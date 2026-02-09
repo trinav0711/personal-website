@@ -10,18 +10,25 @@ export default function Home() {
       </p>
 
       <p className="mt-6 text-base leading-7 text-zinc-700">
-        I am a Software Engineer with 3+ years of experience at Amazon Web Services Aurora Storage,
-        working on reliability-critical distributed database systems. I am
-        currently pursuing an Master of Science in Computer Science
-        at Columbia University with expected graduation in December 2026. With courseworks in AI, ML,
-        NLP, Discrete Math, Databases, Security & Privacy, and Algorithms, I am specializing in Machine
-        Learning and Artificial Intelligence. My current research at Columbia is at the intersection of
-        AI and Privacy, working on contemporary and upcoming LLMs to enhance user trust and adherence to
+        I am a Software Engineer with <b><i>3+ years of experience at Amazon Web Services' Aurora Storage</i></b> team,
+        working on reliability-critical distributed database systems. Working on the market leader in
+        relational databases, I have experience solving real-time customer issues of both enterprise clients such as
+        <b><i> Disney and Netflix</i></b>, and other AWS customers.
+      </p>
+      <p className="mt-6 text-base leading-7 text-zinc-700">
+        With AI complementing Software Engineers in debugging code and writing test cases, it was imperative
+        to learn the fundamentals of AI, LLMs and ML, and how they can intermix with systems
+        and complement developers in the future. With this in mind, I am currently pursuing a Master of Science in Computer Science
+        at <b>Columbia University, New York</b> with an expected graduation in December 2026. With courseworks in AI, ML,
+        NLP, Discrete Math, Databases, Security & Privacy, and Algorithms, <b><i>I am specializing in Machine
+        Learning and Artificial Intelligence</i></b>. My current research at Columbia is at the intersection of
+        AI and Privacy. I am developing a compliance audit benchmarking software
+        for both contemporary and upcoming LLMs to build user trust and ensure adherence to
         global privacy laws.
       </p>
 
       <p className="mt-4 text-base leading-7 text-zinc-700">
-        My interests include low-latency systems, databases, web and app development, security and privacy,
+        My interests include low-latency systems, databases, web & app development, security & privacy,
         and applied machine learning.
       </p>
 

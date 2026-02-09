@@ -18,7 +18,7 @@ export default function ResearchPage() {
           Lab at Columbia University. I am working on an NSF-funded project focused on compliance
           auditing of LLMs using Causal Inference and Explainable AI techniques. The primary goal is
           to check adherence of modern and upcoming LLMs to data privacy laws across the globe, such as GDPR,
-          EU AI Act, Colorado AI Act, amongst others. These laws build upon FIPPS and OECD's purpose limitation
+          EU AI Act, Colorado AI Act, amongst others. These laws build upon FIPPs and OECD's purpose limitation
           and data minimization guidelines. The current task focuses on building a benchmark to audit
           the current open-source LLMs against both real-world and synthetically generated datasets in the
           Finance, Employment and Healthcare domains, providing counter-factuals and eventually evaluating the
@@ -30,11 +30,13 @@ export default function ResearchPage() {
 
       <section className="mt-10">
         <h2 className="text-xl font-medium">Previous Research</h2>
+        <p className="mt-4 text-zinc-700 leading-7">
         I have previously worked as a Research Assistant at the Centre for Microprocessor Applications
         Training and Research (CMATER) lab at Jadavpur University, India during my undergraduate studies.
         To continue my passion for ML optimization problems, upon request from various journals,
         I currently review research works to help advancement in this domain. Some salient observations
         during my time at CMATER are as follows:
+        </p>
         <ul className="mt-4 space-y-4 text-zinc-700">
           <li>
             • Collaborated with 5+ academic researchers while guiding undergraduate
@@ -43,11 +45,11 @@ export default function ResearchPage() {
           <li>
             • Published 9 peer-reviewed research papers with 400+ citations in
             areas including cancer detection, stock market prediction, signature verification,
-            social networks' advertising optimization and image segmentation of brain MRI scans.
+            social networks' advertising optimization, and image segmentation of brain MRI scans.
           </li>
           <li>
             • Presented research findings at multiple international conferences organized by
-            IEEE and Elsevier.
+            IEEE and Springer.
           </li>
           <li>
             • Actively involved in helping current university students in the feature selection domain.
