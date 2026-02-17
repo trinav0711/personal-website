@@ -26,6 +26,16 @@ export default function ResearchPage() {
           and University of South Carolina, while industry participation is being spearheaded by Google
           and IBM whose focus is to provide their own LLMs and datasets.
         </p>
+        <br></br>
+        <p className="mt-4 text-zinc-700 leading-7">
+          Apart from the work regarding LLM privacy, I am working as an ML Research Assistant at the
+          Department of Earth & Environmental Engineering at Columbia University. I am assisting
+          in the development of a translator for Fortran code of Community Land, Ocean and Atmospheric
+          models to Python JAX for usage of autodiff and other ML techniques in the future. This pipeline
+          will aid development of weather prediction in a better way by understanding the interaction of
+          the biosphere with the atmosphere. The current task focuses on developing a modular package
+          to translate the code, run test suites using pytest, and automatically repairing any failed test.
+        </p>
       </section>
 
       <section className="mt-10">
